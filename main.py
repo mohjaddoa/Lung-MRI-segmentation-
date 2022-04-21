@@ -3,7 +3,7 @@ import numpy as np
 from skimage import measure
 import imutils
 
-#### read image
+#### read image here
 readr_img = cv2.imread("test.jpg") 
 #### convert to gray
 gray = cv2.cvtColor(readr_img, cv2.COLOR_BGR2GRAY)
