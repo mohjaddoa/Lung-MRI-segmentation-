@@ -1,2 +1,3 @@
 # lung segmentation
-Simple segemnation using thresholding 
+Simple segemnation using thresholding
+
